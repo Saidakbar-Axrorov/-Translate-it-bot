@@ -1,2 +1,2 @@
-# -Translate-it-bot
+# Translate-it-bot
 this bot translates english texts to uzbek language
